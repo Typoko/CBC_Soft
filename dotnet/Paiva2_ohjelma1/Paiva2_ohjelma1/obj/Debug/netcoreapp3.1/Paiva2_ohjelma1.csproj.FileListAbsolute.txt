@@ -1,0 +1,13 @@
+F:\tyokurssi\softat\dotnet\Paiva2_ohjelma1\Paiva2_ohjelma1\bin\Debug\netcoreapp3.1\Paiva2_ohjelma1.exe
+F:\tyokurssi\softat\dotnet\Paiva2_ohjelma1\Paiva2_ohjelma1\bin\Debug\netcoreapp3.1\Paiva2_ohjelma1.deps.json
+F:\tyokurssi\softat\dotnet\Paiva2_ohjelma1\Paiva2_ohjelma1\bin\Debug\netcoreapp3.1\Paiva2_ohjelma1.runtimeconfig.json
+F:\tyokurssi\softat\dotnet\Paiva2_ohjelma1\Paiva2_ohjelma1\bin\Debug\netcoreapp3.1\Paiva2_ohjelma1.runtimeconfig.dev.json
+F:\tyokurssi\softat\dotnet\Paiva2_ohjelma1\Paiva2_ohjelma1\bin\Debug\netcoreapp3.1\Paiva2_ohjelma1.dll
+F:\tyokurssi\softat\dotnet\Paiva2_ohjelma1\Paiva2_ohjelma1\bin\Debug\netcoreapp3.1\Paiva2_ohjelma1.pdb
+F:\tyokurssi\softat\dotnet\Paiva2_ohjelma1\Paiva2_ohjelma1\obj\Debug\netcoreapp3.1\Paiva2_ohjelma1.csprojAssemblyReference.cache
+F:\tyokurssi\softat\dotnet\Paiva2_ohjelma1\Paiva2_ohjelma1\obj\Debug\netcoreapp3.1\Paiva2_ohjelma1.csproj.CoreCompileInputs.cache
+F:\tyokurssi\softat\dotnet\Paiva2_ohjelma1\Paiva2_ohjelma1\obj\Debug\netcoreapp3.1\Paiva2_ohjelma1.AssemblyInfoInputs.cache
+F:\tyokurssi\softat\dotnet\Paiva2_ohjelma1\Paiva2_ohjelma1\obj\Debug\netcoreapp3.1\Paiva2_ohjelma1.AssemblyInfo.cs
+F:\tyokurssi\softat\dotnet\Paiva2_ohjelma1\Paiva2_ohjelma1\obj\Debug\netcoreapp3.1\Paiva2_ohjelma1.dll
+F:\tyokurssi\softat\dotnet\Paiva2_ohjelma1\Paiva2_ohjelma1\obj\Debug\netcoreapp3.1\Paiva2_ohjelma1.pdb
+F:\tyokurssi\softat\dotnet\Paiva2_ohjelma1\Paiva2_ohjelma1\obj\Debug\netcoreapp3.1\Paiva2_ohjelma1.genruntimeconfig.cache

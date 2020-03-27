@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Typoko\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Typoko\\.nuget\\packages"
+    ]
+  }
+}
